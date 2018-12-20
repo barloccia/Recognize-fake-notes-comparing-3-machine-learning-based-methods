@@ -18,10 +18,13 @@ Then we implemented the Naive Bayse clissifier without using any external plugin
 
 We first look at the feature distribution using th KDE's function furnished from scikit-learn. 
 With the graph below we see a cool visualization of the data to understaing the distribution of out dataset.
-Screen Shot 2018-12-20 at 20.12.24.png
-
 ![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/blob/master/Screen%20Shot%202018-12-20%20at%2020.12.24.png)
+For each method we then implemented the cross-validation to find best paramaters. Below an example of the graph retrieved after validation.
+![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/blob/master/Screen%20Shot%202018-12-20%20at%2020.12.31.png)
+Finally, we compute testing over the test data set and we compare the different methods using many scores, like the Mc'nemar test as show in the table below.
 
+
+![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/blob/master/Screen%20Shot%202018-12-20%20at%2020.30.52.png)
 
 
 ## Built With
