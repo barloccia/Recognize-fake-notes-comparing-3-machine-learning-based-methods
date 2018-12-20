@@ -14,9 +14,15 @@ Packages used: matplotlib, sklearn, numpy
 The logisitc regression and k nearest neighbours used are from scikit-learn python package. We apply over them only a cross-validation method to retrieve the best values for our purpose.
 Then we implemented the Naive Bayse clissifier without using any external plugin. We did that using kernel density estimators to evaluate each feature and the apply to it the naive bayse theory.
 
-##  Important steps and deployment
+##  Important steps during implementation
 
-![Aims](https://github.com/barloccia/MASK-CNN-for-actions-recognition-/blob/master/images/aims.png)
+We first look at the feature distribution using th KDE's function furnished from scikit-learn. 
+With the graph below we see a cool visualization of the data to understaing the distribution of out dataset.
+Screen Shot 2018-12-20 at 20.12.24.png
+
+![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/Screen Shot 2018-12-20 at 20.12.24.png)
+
+
 
 ## Built With
 
