@@ -20,7 +20,7 @@ We first look at the feature distribution using th KDE's function furnished from
 With the graph below we see a cool visualization of the data to understaing the distribution of out dataset.
 Screen Shot 2018-12-20 at 20.12.24.png
 
-![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/Screen%20Shot%202018-12-20%20at%2020.12.24.png)
+![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/blob/master/Screen%20Shot%202018-12-20%20at%2020.12.24.png)
 
 
 
