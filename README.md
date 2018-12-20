@@ -26,6 +26,10 @@ Finally, we compute testing over the test data set and we compare the different 
 
 ![Aims](https://github.com/barloccia/Recognize-fake-notes-comparing-3-machine-learning-based-methods/blob/master/Screen%20Shot%202018-12-20%20at%2020.30.52.png)
 
+## Running the tests
+Download the package and run tp1.py like: python3 tp1.py
+
+Graphs are saved in the properly folder, results are directly printed.
 
 ## Built With
 
