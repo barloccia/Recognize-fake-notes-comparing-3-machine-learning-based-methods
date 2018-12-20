@@ -16,7 +16,7 @@ Then we implemented the Naive Bayse clissifier without using any external plugin
 
 ## Built With
 
-* [Python 3](https://www.python.org/download/releases/3.0/) Python 3
+* [Python 3](https://www.python.org/download/releases/3.0/) 
 
 # Authors
 
